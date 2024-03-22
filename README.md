@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://donbstringham.com">
-    <img src="https://img.shields.io/endpoint" />
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fdonbstringham.com&up_message=donbstringham.com&link=https%3A%2F%2Fdonbstringham.com" />
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=dbs6713&style=flat-square&color=blue" alt=""/>
